@@ -1,0 +1,68 @@
+Please answer the below Data Structure Questions:
+
+
+1) why do we need data structure?
+- to be efficient in terms of time and memory when processing large data and solving complex math problem 
+
+2) List out the areas in which data structures are applied extensively?
+- Database
+- Statistical Analysis
+- Numerical Analysis
+-Simulation
+- Artificial Intelligence
+
+3) what is an Array?
+-Array is a container to store data
+
+4) what is the difference between the Array and ArrayList?
+ArrayList can grow dynamically. Array needs to have a limit set when initialized.
+
+5) what is LinkedList?
+- Linked list is a linear data structure comprising of a key-value pair
+
+6) what is queue?
+-Queue is a data structure concept where first data in is the first out
+
+7) what is stack?
+-Stack is a data structure concept where last data in is the first out
+
+8) what is FIFO and LIFO?
+- First In First Out
+-Last In Last Out
+
+9) what is the order of complexity?
+- It measures how many steps it takes to complete a problem in certain way in data structure
+
+10)what is the best case to search an element from an array?
+- The best case is when the case is present in the first location searched  
+
+11)what is the worst case to search an element from an array?
+- The worst case is when searched case is not present in the data set
+
+12) what is tree in data structure?
+A tree is a data structure consisting of nodes organized as a hierarchy
+
+13) what is graph in data structure?
+A graph is an array comprised of a set of vertices and a set of edges
+
+14) what is the difference between the HashTable and HashMap?
+HashMap is non synchronized and not thread safe.On the other hand, HashTable is thread safe and synchronized
+
+15) What are the major data structures used in the following areas : 
+RDBMS - Array,
+ Network data model - Graph
+ and Hierarchical data model - Trees
+
+16) How HashMap works in java?
+HashMap works on the principle of hashing
+
+17)What is Big-(O)-notation?
+- Big O notation is used to describe the performance of an algorithm 
+
+18)Outlined different kind of sorting algorithm with time complexity?
+- Merged sort is better at dealing with large data compared to insertion sort
+
+19) Draw a table with time complexity in which it will summarize all the data structure feature's advantages and disadvantages.
+  a)In terms of adding element.
+  b)In terms of removing element.
+  c)In terms of searching element.
